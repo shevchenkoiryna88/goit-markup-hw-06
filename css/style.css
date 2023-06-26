@@ -3,10 +3,12 @@ body {
     font-family: 'Roboto', sans-serif;
     color: var(--body-text-color);
     background-color: var(--white-background-color);
-    letter-spacing: 0.02em;
-   
+    letter-spacing: 0.02em;   
     line-height: 24px;}
 
+
+
+    
 /* CSS змінні */
 :root {
     --primary-barand-color: #4d5ae5;
@@ -81,6 +83,8 @@ a {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+
 
 /* Header Style */
 
